@@ -5,7 +5,7 @@
 내용 아카이빙
 ### JAVA
 * 2022.10.04~2022.10.28
-* 사용툴: <img src="https://img.shields.io/badge/eclipse-#2C2255?style=flat&logo=eclipseide&logoColor=white"/>
+* 사용툴: <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 * java를 통한 기초적인 프로그램 및 인터페이스 기능 구현
 ### HTML & CSS
 * 2022.10.31~2022.11.04
