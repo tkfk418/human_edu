@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        div{
+            border: 1px solid blueviolet;
+            margin: 10px;
+        }
+        #child{
+            position: absolute;
+            left: 100px;
+            top: 100px;
+            background-color: darkturquoise;
+            /* 1.static 일때는 left/top이 적용안됨 */
+             /* 2.relative 일때는 left/top이 부모로부터  시작함 */
+              /* 3.absolute 일때는 부모위치와 상관없이 left/top이 적용됨(left/top을 0으로 바꾸면 ) */
+        }
+    </style>
+</head>
+<body>
+   <div>휴먼교육센터</div>
+    <div id="parent"> PARENT
+        <div id = "child">CHILD</div>
+    </div>
+
+
+
+
+
+
+</body>
+</html>

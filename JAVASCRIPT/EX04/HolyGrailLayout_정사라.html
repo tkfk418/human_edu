@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>메인페이지</title>
+    <style>
+    #container{
+        display: flex;
+        flex-direction: column;
+    }
+    .contents{
+        display: flex;
+        flex-direction: row;
+    }
+    header{
+        border-bottom: 1px solid rgb(252, 217, 232);
+        background-color: rgb(253, 231, 235);
+        padding-left: 20px;
+    }
+    footer{
+        border-top: 1px solid rgb(250, 201, 224);
+        padding-left: 10px;
+    }
+    section nav{
+        border-right: 1px solid rgb(185, 228, 253);
+        background-color: rgb(250, 231, 240);
+        color:rgb(38, 10, 83)
+    }
+    section aside{
+        border-left: 1px solid rgb(200, 224, 247);
+    }
+    section main{
+        padding: 30px;
+       font-weight: bold;
+       font-size: large;
+        background-color: rgb(191, 253, 255);
+    }
+    section nav, section aside{
+        flex-basis: 150px;
+        flex-shrink: 0;
+    }
+</style>
+<body>
+    <div id="container">
+        <header>
+            <h1>AI반 홈페이지입니다</h1>
+            
+        </header>
+
+        <section class="contents">
+            <nav>
+                <ul>
+                    <li>우리반소개</li>
+                    <li>인물소개</li>
+                    <li>취뽀도전</li>
+                </ul>
+            </nav>
+            <main >
+                The biggest adventure you can ever take is to live the life of your dreams!
+            </main>
+            <aside>
+                AD
+            </aside>
+        </section>
+         
+        <footer>
+            <a href="www.IloveAIClass.or.kr">click me</a>
+           
+        </footer>    
+    </div>
+</body>
+</html>
