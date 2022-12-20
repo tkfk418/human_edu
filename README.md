@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=I'm%20sara&fontSize=70)
-# 🇰🇷휴먼교육센터 교육과정
+# 휴먼교육센터 교육과정
 - 과정명 : Python(파이썬), JAVA(자바)기반 AI활용 소프트웨어 개발 및 응용 과정
 * 기간: 2022.10.04 ~ 2023.04.21
 <div align="center">
@@ -43,3 +43,4 @@
 
 </div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?tkfk418=anuraghazra&theme=nightowl&show_icons=true)
