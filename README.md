@@ -1,9 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=I'm%20sara&fontSize=70)
 # 휴먼교육센터 교육과정
 - 과정명 : Python(파이썬), JAVA(자바)기반 AI활용 소프트웨어 개발 및 응용 과정
 * 기간: 2022.10.04 ~ 2023.04.21
 
-내용 아카이빙
+## 내용 아카이빙
 ### JAVA
 * 2022.10.04~2022.10.28
 * 사용툴: Eclipse SE
@@ -34,3 +34,5 @@
 * 2022.10.31~2022.11.03
 * 사용툴: Eclipse SE
 * 커플 데이트 통장 구현 및 JavaFX를 활용하여 지출 내역 파이 그래프 구현
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tkfk418)](https://solved.ac/tkfk418)<br/>
