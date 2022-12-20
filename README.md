@@ -41,6 +41,10 @@
 * 사용툴: Eclipse SE
 * 커플 데이트 통장 구현 및 JavaFX를 활용하여 지출 내역 파이 그래프 구현
 
-</div>
+</div><br><br>
+
+<div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkfk418&theme=nightowl&show_icons=true)
+
+</div>
