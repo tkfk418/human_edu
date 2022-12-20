@@ -43,4 +43,4 @@
 
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?tkfk418=anuraghazra&theme=nightowl&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkfk418&theme=nightowl&show_icons=true)
