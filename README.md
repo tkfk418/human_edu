@@ -15,26 +15,29 @@
   * 추상클래스, 인터페이스를 이용한 프로그램 구현
 * #### HTML & CSS
   * ##### 2022.10.31~2022.11.04
-  * 사용툴: <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-F43059?style=flat&logo=CSS3&logoColor=white">
-  * <img src="https://img.shields.io/badge/a-A8B9CC?style=flat&logo=a&logoColor=black">서버 및 배치 프로그램 구현하기
+  * 사용툴: <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white">
+  * <img src="https://img.shields.io/badge/input-A8B9CC?style=flat&logo=a&logoColor=black">,<img src="https://img.shields.io/badge/select-A8B9CC?style=flat&logo=a&logoColor=black">,<img src="https://img.shields.io/badge/button-A8B9CC?style=flat&logo=a&logoColor=black"> 등의 태그 및 배치 프로그램 실습
 * #### JAVASCRIPT
   * ##### 2022.11.07~2022.11.08
-  * 사용툴: Visual Studio Code
-  * DOM 모델을 활용한 배치 프로그램 구현
+  * 사용툴: <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white">
+  * DOM 모델을 활용한 데이터 관리 프로그램 구현
 * #### JQUERY
   * ##### 2022.11.07~2022.11.08
-  * 사용툴: Visual Studio Code
+  * 사용툴: <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white">
   * JQUERY 기본 문법 및 응용 프로그램 구현
 * #### SQL
   * ##### 2022.11.29~2022.12.06
-  * 사용툴: Oracle
-  * sql문을 통해 crud 구현 
-* #### SPRING
+  * 사용툴: <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white">
+  * <img src="https://img.shields.io/badge/DML-A8B9CC?style=flat&logo=a&logoColor=black">,<img src="https://img.shields.io/badge/DCL-A8B9CC?style=flat&logo=a&logoColor=black"> 통해 CRUD 구현 
+  * <img src="https://img.shields.io/badge/Join-A8B9CC?style=flat&logo=a&logoColor=black">,<img src="https://img.shields.io/badge/Subquery-A8B9CC?style=flat&logo=a&logoColor=black">를 이용한 데이터 추출 실습
+  * <img src="https://img.shields.io/badge/PL/SQL-A8B9CC?style=flat&logo=a&logoColor=black">을 활용한 데이터 추출 실습
+* #### JAVA SPRING
   * ##### 2022.12.06~2022.12.16
-  * 사용툴: Eclipse EE
-  * UI 설계 및 구현 SPRING을 통한 모델 구현
-  * 호텔 객실관리 및 게시판 만들기
-
+  * 사용툴: <img src="https://img.shields.io/badge/Eclipse%20EE-2C2255?style=flat&logo=Eclipse%20IDE&logoColor=white">
+  * <img src="https://img.shields.io/badge/UI-A8B9CC?style=flat&logo=a&logoColor=black"> 설계 및 구현 SPRING을 통한 모델 구현
+  * <img src="https://img.shields.io/badge/DB-A8B9CC?style=flat&logo=a&logoColor=black">와의 연동 및 데이터 CRUD를 활용한 게시판 만들기 실습
+  * <img src="https://img.shields.io/badge/AJAX-A8B9CC?style=flat&logo=a&logoColor=black">를 활용한 호텔객실관리 만들기 실습
+  
 <br><br>
 
 <div align="center">
