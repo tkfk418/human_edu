@@ -25,7 +25,7 @@
   * ##### 2022.11.07~2022.11.08
   * 사용툴: <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white">
   * JQUERY 기본 문법 및 응용 프로그램 구현
-* #### SQL
+* #### Oracle
   * ##### 2022.11.29~2022.12.06
   * 사용툴: <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white">
   * <img src="https://img.shields.io/badge/DML-A8B9CC?style=flat&logo=a&logoColor=black">,<img src="https://img.shields.io/badge/DCL-A8B9CC?style=flat&logo=a&logoColor=black"> 통해 CRUD 구현 
@@ -34,7 +34,7 @@
 * #### JAVA SPRING
   * ##### 2022.12.06~2022.12.16
   * 사용툴: <img src="https://img.shields.io/badge/Eclipse%20EE-2C2255?style=flat&logo=Eclipse%20IDE&logoColor=white">
-  * <img src="https://img.shields.io/badge/UI-A8B9CC?style=flat&logo=a&logoColor=black"> 설계 및 구현 SPRING을 통한 모델 구현
+  * <img src="https://img.shields.io/badge/MVX-A8B9CC?style=flat&logo=a&logoColor=black"> 구조 학습
   * <img src="https://img.shields.io/badge/DB-A8B9CC?style=flat&logo=a&logoColor=black">와의 연동 및 데이터 CRUD를 활용한 게시판 만들기 실습
   * <img src="https://img.shields.io/badge/AJAX-A8B9CC?style=flat&logo=a&logoColor=black">를 활용한 호텔객실관리 만들기 실습
   
