@@ -10,7 +10,7 @@
 
 * #### JAVA-JAVA SE
   * ##### 2022.10.04~2022.11.03
-  * 사용툴: <img src ="https://img.shields.io/badge/Eclipse%20SE#2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white"/>
+  * 사용툴: <img src="https://img.shields.io/badge/Eclipse%20SE-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
   * java를 코딩하기 위한 기본 개념, 객체, 상속, 인터페이스, 예외 처리 등 실습
   * 추상클래스, 인터페이스를 이용한 프로그램 구현
 * #### HTML & CSS
