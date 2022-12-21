@@ -10,7 +10,7 @@
 
 * #### JAVA-JAVA SE
   * ##### 2022.10.04~2022.11.03
-  * 사용툴: <img src="https://img.shields.io/badge/Eclipse SE-#2C2255?style=flat&logo=Eclipse SE&logoColor=white" />
+  * 사용툴: <img src="https://img.shields.io/badge/EclipseSE-#2C2255?style=flat&logo=EclipseSE&logoColor=white" />
   * java를 통한 기초적인 프로그램 및 인터페이스 기능 구현
 * #### HTML & CSS
   * ##### 2022.10.31~2022.11.04
