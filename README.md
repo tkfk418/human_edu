@@ -15,7 +15,7 @@
   * 추상클래스, 인터페이스를 이용한 프로그램 구현
 * #### HTML & CSS
   * ##### 2022.10.31~2022.11.04
-  * 사용툴: <img src ="https://img.shields.io/badge/HTML#E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> <img src ="https://img.shields.io/badge/CSS#F43059.svg?&style=for-the-badge&logo=HTML3&logoColor=white"/>
+  * 사용툴: <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-F43059?style=for-the-badge&logo=CSS3&logoColor=white">
   * 서버 및 배치 프로그램 구현하기
 * #### JAVASCRIPT
   * ##### 2022.11.07~2022.11.08
