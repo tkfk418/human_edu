@@ -16,7 +16,7 @@
 * #### HTML & CSS
   * ##### 2022.10.31~2022.11.04
   * 사용툴: <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-F43059?style=flat&logo=CSS3&logoColor=white">
-  * 서버 및 배치 프로그램 구현하기
+  * <img src="https://img.shields.io/badge/a-A8B9CC?style=flat&logo=a&logoColor=black">서버 및 배치 프로그램 구현하기
 * #### JAVASCRIPT
   * ##### 2022.11.07~2022.11.08
   * 사용툴: Visual Studio Code
