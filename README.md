@@ -37,6 +37,10 @@
   * <img src="https://img.shields.io/badge/MVC-A8B9CC?style=flat&logo=a&logoColor=black"> 구조 학습
   * <img src="https://img.shields.io/badge/DB-A8B9CC?style=flat&logo=a&logoColor=black">와의 연동 및 데이터 CRUD를 활용한 게시판 만들기 실습
   * <img src="https://img.shields.io/badge/AJAX-A8B9CC?style=flat&logo=a&logoColor=black">를 활용한 호텔객실관리 만들기 실습
+  * #### R
+  * ##### 2022.12.19~2022.12.23
+  * 사용툴: <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=RStudioe&logoColor=white">
+  * JQUERY 기본 문법 및 응용 프로그램 구현
   
 <br><br>
 
