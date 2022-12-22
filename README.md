@@ -40,7 +40,8 @@
   * #### R
   * ##### 2022.12.19~2022.12.23
   * 사용툴: <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=RStudioe&logoColor=white">
-  * JQUERY 기본 문법 및 응용 프로그램 구현
+  * <img src="https://img.shields.io/badge/dplyr-A8B9CC?style=flat&logo=a&logoColor=black">,<img src="https://img.shields.io/badge/ggplot2-A8B9CC?style=flat&logo=a&logoColor=black">,<img src="https://img.shields.io/badge/KoNLP-A8B9CC?style=flat&logo=a&logoColor=black">,<img src="https://img.shields.io/badge/ggmap-A8B9CC?style=flat&logo=a&logoColor=black">,<img src="https://img.shields.io/badge/googleVis-A8B9CC?style=flat&logo=a&logoColor=black"> 패키지 활용
+  * R 기초 문법, 데이터 가공, 데이터 시각화, 텍스트 마이닝, 지도 시각화    
   
 <br><br>
 
