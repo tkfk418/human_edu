@@ -37,12 +37,12 @@
   * <img src="https://img.shields.io/badge/MVC-A8B9CC?style=flat&logo=a&logoColor=black"> 구조 학습
   * <img src="https://img.shields.io/badge/DB-A8B9CC?style=flat&logo=a&logoColor=black">와의 연동 및 데이터 CRUD를 활용한 게시판 만들기 실습
   * <img src="https://img.shields.io/badge/AJAX-A8B9CC?style=flat&logo=a&logoColor=black">를 활용한 호텔객실관리 만들기 실습
-  * #### R
+* #### R
   * ##### 2022.12.19~2022.12.23
   * 사용툴: <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=RStudioe&logoColor=white">
   * <img src="https://img.shields.io/badge/dplyr-A8B9CC?style=flat&logo=a&logoColor=black">,<img src="https://img.shields.io/badge/ggplot2-A8B9CC?style=flat&logo=a&logoColor=black">,<img src="https://img.shields.io/badge/KoNLP-A8B9CC?style=flat&logo=a&logoColor=black">,<img src="https://img.shields.io/badge/ggmap-A8B9CC?style=flat&logo=a&logoColor=black">,<img src="https://img.shields.io/badge/googleVis-A8B9CC?style=flat&logo=a&logoColor=black"> 패키지 활용
   * R 기초 문법, 데이터 가공, 데이터 시각화, 텍스트 마이닝, 지도 시각화    
-  * #### Python
+* #### Python
   * ##### 2022.12.26~2022.12.30
   * 사용툴: <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
   * <img src="https://img.shields.io/badge/pandas-A8B9CC?style=flat&logo=a&logoColor=black">,<img src="https://img.shields.io/badge/numpy-A8B9CC?style=flat&logo=a&logoColor=black">패키지 활용
