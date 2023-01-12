@@ -42,7 +42,11 @@
   * 사용툴: <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=RStudioe&logoColor=white">
   * <img src="https://img.shields.io/badge/dplyr-A8B9CC?style=flat&logo=a&logoColor=black">,<img src="https://img.shields.io/badge/ggplot2-A8B9CC?style=flat&logo=a&logoColor=black">,<img src="https://img.shields.io/badge/KoNLP-A8B9CC?style=flat&logo=a&logoColor=black">,<img src="https://img.shields.io/badge/ggmap-A8B9CC?style=flat&logo=a&logoColor=black">,<img src="https://img.shields.io/badge/googleVis-A8B9CC?style=flat&logo=a&logoColor=black"> 패키지 활용
   * R 기초 문법, 데이터 가공, 데이터 시각화, 텍스트 마이닝, 지도 시각화    
-  
+  * #### Python
+  * ##### 2022.12.26~2022.12.30
+  * 사용툴: <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
+  * <img src="https://img.shields.io/badge/pandas-A8B9CC?style=flat&logo=a&logoColor=black">,<img src="https://img.shields.io/badge/numpy-A8B9CC?style=flat&logo=a&logoColor=black">패키지 활용
+  * Python 기초 문법, 데이터 가공, 데이터 시각화     
 <br><br>
 
 <div align="center">
