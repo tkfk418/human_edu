@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=I'm%20sara&fontSize=50)
 # 휴먼교육센터 교육과정
 * #### 과정명 : Python(파이썬), JAVA(자바)기반 AI활용 소프트웨어 개발 및 응용 과정
 * #### 기간: 2022.10.04 ~ 2023.04.21
@@ -31,6 +30,8 @@
   * <img src="https://img.shields.io/badge/DML-A8B9CC?style=flat&logo=a&logoColor=black">,<img src="https://img.shields.io/badge/DCL-A8B9CC?style=flat&logo=a&logoColor=black"> 통해 CRUD 구현 
   * <img src="https://img.shields.io/badge/Join-A8B9CC?style=flat&logo=a&logoColor=black">,<img src="https://img.shields.io/badge/Subquery-A8B9CC?style=flat&logo=a&logoColor=black">를 이용한 데이터 추출 실습
   * <img src="https://img.shields.io/badge/PL/SQL-A8B9CC?style=flat&logo=a&logoColor=black">을 활용한 데이터 추출 실습
+  * 대용량의 Dataset을 활용하여 Data Handling 실습
+  * 테이블 생성 및 select, join 등을 활용한 DB관리
 * #### JAVA SPRING
   * ##### 2022.12.06~2022.12.16
   * 사용툴: <img src="https://img.shields.io/badge/Eclipse%20EE-2C2255?style=flat&logo=Eclipse%20IDE&logoColor=white">
@@ -45,8 +46,8 @@
 * #### Python
   * ##### 2022.12.26~2022.12.30
   * 사용툴: <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
-  * <img src="https://img.shields.io/badge/pandas-A8B9CC?style=flat&logo=a&logoColor=black">,<img src="https://img.shields.io/badge/numpy-A8B9CC?style=flat&logo=a&logoColor=black">패키지 활용
-  * Python 기초 문법, 데이터 가공, 데이터 시각화     
+  * <img src="https://img.shields.io/badge/pandas-A8B9CC?style=flat&logo=a&logoColor=black">,<img src="https://img.shields.io/badge/numpy-A8B9CC?style=flat&logo=a&logoColor=black">,<img src="https://img.shields.io/badge/matplotlib-A8B9CC?style=flat&logo=a&logoColor=black">,<img src="https://img.shields.io/badge/plotly-A8B9CC?style=flat&logo=a&logoColor=black">,<img src="https://img.shields.io/badge/seaborn-A8B9CC?style=flat&logo=a&logoColor=black">,<img src="https://img.shields.io/badge/scikit-learn-A8B9CC?style=flat&logo=a&logoColor=black">패키지 활용
+  * Python 기초 문법, 데이터 가공, 데이터 시각화, 머신러닝, 딥러닝, 웹개발     
 <br><br>
 
 <div align="center">
